@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Fractal
+
+  Created by David Salmon on 2/12/16.
+
+*/
+
+"julia_x" = "λ(r)";
+"julia_y" = "λ(i)";
+
+"mand_x" = "z(r)";
+"mand_y" = "z(i)";
